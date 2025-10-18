@@ -14,7 +14,7 @@ function App() {
   return (
     <CartProvider>
       <Router>
-        <div className="App">
+        <div className="App"> 
           <Header />
           <main>
             <Routes>
